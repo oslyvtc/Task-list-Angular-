@@ -1,0 +1,12 @@
+body, table {
+	height: 100%;
+	background-color: grey;
+}
+
+.active {
+	color: orange;
+}
+
+.done {
+	color: green;
+}
